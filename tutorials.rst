@@ -22,4 +22,12 @@ sPlots
 
    notebooks/sPlot
 
+.. _COWs:
 
+sWeights extended and COWs
+------------
+
+.. toctree::
+   :maxdepth: 1
+
+   notebooks/COWs
