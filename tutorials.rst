@@ -33,6 +33,16 @@ sWeights extended and COWs
 
    notebooks/COWs
 
+.. _Jets:
+
+Jets
+-------------
+
+.. toctree::
+   :maxdepth: 1
+
+   notebooks/Jets
+   
 External documentation
 ----------------------
 
