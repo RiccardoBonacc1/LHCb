@@ -73,8 +73,8 @@ conda activate env
 
 cd /home/bonacci/xiccmultiplicity/ApplySelection/Step3_MVA_Training/Lc2pKPi
 
-# Run MVA classifier on Lc data:
-python apply.py -f $FOLD -n $NUMBER -p $POLARITY -y $YEAR -mc $MC
+# Run MVA classifier on Lc data (run python unbuffered):
+python -u apply.py -f $FOLD -n $NUMBER -p $POLARITY -y $YEAR -mc $MC
 
 echo "Done"
 
